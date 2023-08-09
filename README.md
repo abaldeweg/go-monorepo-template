@@ -1,6 +1,6 @@
 # go-monorepo-template
 
-Description
+Template for go using workspaces.
 
 ## Requirements
 
