@@ -3,7 +3,7 @@ version: 2.1
 jobs:
     test-module:
         docker:
-        - image: cimg/go:1.22.5
+        - image: cimg/go:1.22.6
         steps:
         - checkout
         - run:
