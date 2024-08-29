@@ -8,9 +8,7 @@
     },
 	"features": {
 		"ghcr.io/guiyomh/features/goreleaser:0": {},
-        "ghcr.io/EliiseS/devcontainer-features/bash-profile:1": {
-            "command": ". /etc/bash_custom"
-        }
+        "ghcr.io/abaldeweg/devcontainer_features/bash:latest": {}
 	},
 	"customizations": {
 		"vscode": {
