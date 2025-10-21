@@ -1,3 +1,5 @@
+**This project is deprecated, use https://github.com/abaldeweg/services instead.**
+
 # go-monorepo-template
 
 Template for go using workspaces.
